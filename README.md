@@ -1,7 +1,7 @@
 # 深入理解JNI
 
 ## 概述
-NI，是Java Native Interface的缩写，中文为Java本地调用。通俗地说，JNI是一种技术，通过这种技术可以做到以下两点：
+JNI，是Java Native Interface的缩写，中文为Java本地调用。通俗地说，JNI是一种技术，通过这种技术可以做到以下两点：
 
 ·  Java程序中的函数可以调用Native语言写的函数，Native一般指的是C/C++编写的函数。
 
